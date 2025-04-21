@@ -27,8 +27,12 @@ Al ejecutar el proyecto, se espera ver lo siguiente:
 - Manejo de errores como la división por cero.
 - Salida de un saludo con los nombres almacenados en una colección:
 
+  ## Cómo clonar el repositorio
+Para descargar este proyecto en tu computadora, usa el siguiente comando en la terminal:
+```bash
+git clone https://github.com/TU-USUARIO/Trabajo_semana5.git
+
   ## Conclusión
 Gracias por la oportunidad de realizar esta práctica. Aprendí a trabajar con sobrecarga de métodos, manejo de errores, y colecciones en Java, además de organizar mi código y subirlo a GitHub.
 
 Espero que la estructura del proyecto sea clara y útil para revisar.
-   
